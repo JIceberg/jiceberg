@@ -1,4 +1,6 @@
-### Hi there 👋
+# Jackson Isenberg
+
+Creator of FTCLib, CEO of (The Jaxon Files)[http://www.jaxonfiles.com/]
 
 <!--
 **JIceberg/jiceberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
