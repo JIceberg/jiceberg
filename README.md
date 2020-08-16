@@ -2,6 +2,10 @@
 
 Creator of FTCLib, CEO of [The Jaxon Files](http://www.jaxonfiles.com/)
 
+<a href="https://github.com/FTCLib/FTCLib">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FTCLib&repo=FTCLib&theme=radical" />
+</a>
+
 <!--
 **JIceberg/jiceberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
