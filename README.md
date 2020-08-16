@@ -3,6 +3,8 @@
 Creator of FTCLib, CEO of [The Jaxon Files](http://www.jaxonfiles.com/).
 
 ## GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiceberg&layout=compact&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 [![Jackson's github stats](https://github-readme-stats.vercel.app/api?username=jiceberg)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Current Projects
