@@ -1,6 +1,21 @@
 # Jackson Isenberg
 
-Creator of FTCLib, CEO of [The Jaxon Files](http://www.jaxonfiles.com/).
+Creator of FTCLib, CEO of [The Jaxon Files](http://www.jaxonfiles.com/). Undergraduate Computer Science major at Georgia Tech.
+
+## Status
+
+### Learning
+I am currently performing research on and learning:
+* Kotlin
+* C
+* x86-64 ASM
+* Shell
+
+### Projects
+I am working on:
+* a compiler for C
+* a rewrite of a popular OpenCV library for better features and mechanics
+* an operating system built from Rust
 
 ## GitHub Stats
 
@@ -8,14 +23,13 @@ Creator of FTCLib, CEO of [The Jaxon Files](http://www.jaxonfiles.com/).
 <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiceberg&hide=html&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-## Current Projects
+## Collaborative Projects
 <a href="https://github.com/FTCLib/FTCLib">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FTCLib&repo=FTCLib" />
 </a>
 <a href="https://github.com/JIceberg/the_jaxon_files">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jiceberg&repo=the_jaxon_files" />
 </a>
-
 <!--
 **JIceberg/jiceberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
