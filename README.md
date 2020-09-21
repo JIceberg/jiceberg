@@ -14,7 +14,7 @@ I am currently performing research on and learning:
 ### Projects
 I am working on:
 * a compiler for C
-* a rewrite of a popular OpenCV library for better features and mechanics
+* an image detection library for custom client-side purposes
 * an operating system built from Rust
 
 ## GitHub Stats
