@@ -5,11 +5,11 @@ Creator of FTCLib, CEO of [The Jaxon Files](http://www.jaxonfiles.com/). Undergr
 ## Status
 
 ### Learning
-I am currently performing research on and learning:
+I am currently performing research on and/or learning:
 * Kotlin
-* C
-* x86-64 ASM
-* Shell
+* C/C++
+* LC-3 ASM
+* Shell/Bash
 
 ### Projects
 I am working on:
