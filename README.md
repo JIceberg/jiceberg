@@ -28,7 +28,7 @@ I am working on:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FTCLib&repo=FTCLib" />
 </a>
 <a href="https://github.com/The-Jaxon-Files/the_jaxon_files">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=The-Jaxon-Files&repo=the_jaxon_files" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=The-Jaxon-Files&repo=jaxonfiles" />
 </a>
 <!--
 **JIceberg/jiceberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
