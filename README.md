@@ -1,6 +1,6 @@
 # Jackson Isenberg
 
-Creator of FTCLib, CEO of [The Jaxon Files](http://www.jaxonfiles.com/). Undergraduate Computer Science major at Georgia Tech.
+Creator of FTCLib, CEO of [The Jaxon Files](http://www.jaxonfiles.com/). Undergraduate Computer Science major at Georgia Tech with a concentration in systems and architecture and computer intelligence. I'm interested in robotics, quantitative analysis, software engineering, and web development.
 
 ## Status
 
