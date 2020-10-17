@@ -17,6 +17,9 @@ I am working on:
 * an image detection library for custom client-side purposes
 * an operating system built from Rust
 
+### Proficient In
+<img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original.svg" alt="java" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="c++" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/rust/rust-plain.svg" alt="rust" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-plain.svg" alt="js" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original.svg" alt="html5" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original.svg" alt="css3" width="20" height="20"/>
+
 ## GitHub Stats
 
 [![Jackson's github stats](https://github-readme-stats.vercel.app/api?username=jiceberg)](https://github.com/anuraghazra/github-readme-stats)
