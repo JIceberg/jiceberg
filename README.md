@@ -40,6 +40,9 @@ I am working on:
 <a href="https://github.com/JIceberg/TicTacToe">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JIceberg&repo=TicTacToe" />
 </a>
+<a href="https://github.com/JIceberg/starboard-bot">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JIceberg&repo=starboard-bot" />
+</a>
 <!--
 **JIceberg/jiceberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
