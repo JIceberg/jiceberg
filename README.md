@@ -17,6 +17,12 @@ I am working on:
 * an image detection library for custom client-side purposes
 * an operating system built from Rust
 
+### Groups
+Member of:
+* [FTCLib](https://www.github.com/FTCLib)
+* [RoboJackets](https://github.com/RoboJackets)
+* [HyTech](https://github.com/hytech-racing)
+
 ## GitHub Stats
 
 [![Jackson's github stats](https://github-readme-stats.vercel.app/api?username=jiceberg)](https://github.com/anuraghazra/github-readme-stats)
