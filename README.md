@@ -25,7 +25,7 @@ Member of:
 
 ## GitHub Stats
 
-[![Jackson's github stats](https://github-readme-stats.vercel.app/api?username=jiceberg)](https://github.com/anuraghazra/github-readme-stats)
+[![Jackson's github stats](https://github-readme-stats.vercel.app/api?username=jiceberg&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiceberg&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Collaborative Projects
