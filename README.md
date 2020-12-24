@@ -9,7 +9,7 @@ Creator of FTCLib, CEO of [The Jaxon Files](http://www.jaxonfiles.com/). Undergr
 I am currently performing research on and/or learning:
 * Kotlin
 * C/C++
-* Shell/Bash
+* Gatsby and React (JavaScript)
 
 ### Projects
 I am working on:
