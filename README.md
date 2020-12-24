@@ -35,20 +35,6 @@ Member of:
 <a href="https://github.com/The-Jaxon-Files/the_jaxon_files">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=The-Jaxon-Files&repo=jaxonfiles" />
 </a>
-<a href="https://github.com/Coppersource/gm0">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Coppersource&repo=gm0" />
-</a>
-
-## Community Projects
-<a href="https://github.com/JIceberg/Chess">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JIceberg&repo=Chess" />
-</a>
-<a href="https://github.com/JIceberg/TicTacToe">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JIceberg&repo=TicTacToe" />
-</a>
-<a href="https://github.com/JIceberg/starboard-bot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JIceberg&repo=starboard-bot" />
-</a>
 <!--
 **JIceberg/jiceberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
