@@ -16,6 +16,7 @@ I am working on:
 * a compiler for C
 * an image detection library for custom client-side purposes
 * an operating system built from Rust
+* a web-sraping registration aid for [Oscar](oscar.gatech.edu)
 
 ### Groups
 Member of:
