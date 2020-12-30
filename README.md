@@ -27,7 +27,6 @@ Member of:
 ## GitHub Stats
 
 [![Jackson's github stats](https://github-readme-stats.vercel.app/api?username=jiceberg&include_all_commits=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiceberg&langs_count=8&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Projects
 <a href="https://github.com/FTCLib/FTCLib">
