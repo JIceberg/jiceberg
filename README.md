@@ -14,9 +14,7 @@ I am currently performing research on and/or learning:
 ### Projects
 I am working on:
 * a compiler for C
-* an image detection library for custom client-side purposes
 * an operating system built from Rust
-* a web-sraping registration aid for [Oscar](https://oscar.gatech.edu) ✅
 
 ### Groups
 Member of:
