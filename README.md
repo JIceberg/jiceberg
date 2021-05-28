@@ -8,7 +8,7 @@ Creator of FTCLib, CEO of [The Jaxon Files](http://www.jaxonfiles.com/). Undergr
 ### Learning
 I am currently performing research on and/or learning:
 * Kotlin
-* C/C++
+* Embedded Rust
 * Gatsby and React (JavaScript)
 
 ### Projects
@@ -18,9 +18,10 @@ I am working on:
 
 ### Groups
 Member of:
-* [FTCLib](https://www.github.com/FTCLib)
-* [RoboJackets](https://github.com/RoboJackets)
-* [HyTech](https://github.com/hytech-racing)
+* [FTCLib](https://www.github.com/FTCLib) as the Lead Developer
+* [Alpharetta Robotics](https://github.com/AHS-Robotics-Club) as the Head Mentor
+* [RoboJackets](https://github.com/RoboJackets) as the IT Coordinator
+* [HyTech Racing](https://github.com/hytech-racing)
 
 ## GitHub Stats
 
