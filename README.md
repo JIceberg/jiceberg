@@ -2,7 +2,7 @@
 
 A not-so-average Rust enthusiast. Here's my [resume](https://github.com/JIceberg/resume/blob/master/resume.pdf).
 
-![meme](https://user-images.githubusercontent.com/17654209/122649564-6339cb00-d0fc-11eb-83a1-0b78494f711c.png)
+![meme](rust-v-cpp.gif)
 
 ## Groups
 Member of:
