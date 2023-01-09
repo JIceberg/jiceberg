@@ -9,7 +9,6 @@ Member of:
 * [FTCLib](https://www.github.com/FTCLib) as the Lead Developer
 * [Alpharetta Robotics](https://github.com/AHS-Robotics-Club) as the Head Mentor
 * [RoboJackets](https://github.com/RoboJackets) as the IT Coordinator
-* [HyTech Racing](https://github.com/hytech-racing)
 
 ## GitHub Stats
 
