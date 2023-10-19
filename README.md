@@ -4,11 +4,16 @@ A not-so-average Rust enthusiast. Here's my [resume](https://github.com/JIceberg
 
 ![meme](rust-v-cpp.gif)
 
-## Groups
-Member of:
-* [FTCLib](https://www.github.com/FTCLib) as the Lead Developer
-* [Alpharetta Robotics](https://github.com/AHS-Robotics-Club) as the Head Mentor
-* [RoboJackets](https://github.com/RoboJackets) as the IT Coordinator
+## Current Work
+* Lead Developer of [FTCLib](https://www.github.com/FTCLib)
+* Student Research Assistant at GTRI
+* Research Assistant at Low-power, Adaptive, and Resilient Systems Lab at Georgia Tech
+* FIRST Tech Challenge CSA and FTA
+
+## Past Work
+* Creator of the Jaxon Files
+* IT Coordinator of RoboJackets for 2 years
+* Head mentor of Alpharetta High School Robotics
 
 ## GitHub Stats
 
