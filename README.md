@@ -23,6 +23,9 @@ Member of:
 <a href="https://github.com/The-Jaxon-Files/the_jaxon_files">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=The-Jaxon-Files&repo=jaxonfiles&theme=onedark" />
 </a>
+<a href="https://github.com/neuraphonic/neuraphonic/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=neuraphonic&repo=neuraphonic&theme=onedark" />
+</a>
 <!--
 **JIceberg/jiceberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
