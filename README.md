@@ -1,6 +1,6 @@
 # Jackson Isenberg
 
-A not-so-average Rust enthusiast. Here's my [resume](https://github.com/JIceberg/resume/blob/master/resume.pdf).
+Average Rust enthusiast. Here's my [resume](https://github.com/JIceberg/resume/blob/master/resume.pdf).
 
 ![meme](rust-v-cpp.gif)
 
