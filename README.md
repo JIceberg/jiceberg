@@ -1,19 +1,8 @@
 # Jackson Isenberg
 
-Average Rust enthusiast. Here's my [resume](https://github.com/JIceberg/resume/blob/master/resume.pdf).
-
 ![meme](rust-v-cpp.gif)
 
-## Current Work
-* Lead Developer of [FTCLib](https://www.github.com/FTCLib)
-* Student Research Assistant at GTRI
-* Research Assistant at Low-power, Adaptive, and Resilient Systems Lab at Georgia Tech
-* FIRST Tech Challenge CSA and FTA
-
-## Past Work
-* Creator of the Jaxon Files
-* IT Coordinator of RoboJackets for 2 years
-* Head mentor of Alpharetta High School Robotics
+Here's my [resume](https://github.com/JIceberg/resume/blob/master/resume.pdf).
 
 ## GitHub Stats
 
