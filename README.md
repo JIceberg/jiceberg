@@ -9,12 +9,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiceberg&layout=compact&theme=onedark&hide=html&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Projects
-<a href="https://github.com/FTCLib/FTCLib">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FTCLib&repo=FTCLib&theme=onedark" />
-</a>
-<a href="https://github.com/neuraphonic/neuraphonic/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=neuraphonic&repo=neuraphonic&theme=onedark" />
-</a>
+[![FTCLib](https://github-readme-stats.vercel.app/api/pin/?username=FTCLib&repo=FTCLib)](https://github.com/FTCLib/FTCLib)
+[![Neuraphonic](https://github-readme-stats.vercel.app/api/pin/?username=neuraphonic&repo=neuraphonic)](https://github.com/neuraphonic/neuraphonic)
 <!--
 **JIceberg/jiceberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
