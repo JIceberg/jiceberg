@@ -2,8 +2,6 @@
 
 ![meme](rust-v-cpp.gif)
 
-Here's my [resume](https://github.com/JIceberg/resume/blob/master/resume.pdf).
-
 ## GitHub Stats
 
 [![Jackson's github stats](https://github-readme-stats.vercel.app/api?username=jiceberg&include_all_commits=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
