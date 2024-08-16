@@ -12,9 +12,6 @@
 <a href="https://github.com/FTCLib/FTCLib">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FTCLib&repo=FTCLib&theme=onedark" />
 </a>
-<a href="https://github.com/The-Jaxon-Files/the_jaxon_files">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=The-Jaxon-Files&repo=jaxonfiles&theme=onedark" />
-</a>
 <a href="https://github.com/neuraphonic/neuraphonic/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=neuraphonic&repo=neuraphonic&theme=onedark" />
 </a>
