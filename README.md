@@ -2,6 +2,11 @@
 
 ![meme](rust-v-cpp.gif)
 
+## About Me
+
+I am a research assistant in the Low-Power, Adaptive, and Resilient Systems Lab at Georgia Tech. I am currently pursuing a Master's in Robotics,
+focusing on controls, computer vision, and machine learning.
+
 ## GitHub Stats
 
 [![Jackson's github stats](https://github-readme-stats.vercel.app/api?username=jiceberg&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
